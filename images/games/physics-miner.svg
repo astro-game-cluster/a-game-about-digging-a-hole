@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="50%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#451a03"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#d97706" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="675" fill="url(#bgGrad)"/>
+  <rect width="1200" height="675" fill="url(#grid)"/>
+  <circle cx="600" cy="240" r="320" fill="url(#glow)"/>
+
+  <!-- 装饰边框与圆角 -->
+  <rect x="24" y="24" width="1152" height="627" rx="32" fill="none" stroke="rgba(245,158,11,0.2)" stroke-width="2"/>
+
+  <!-- 徽章标签 (Top Right) -->
+  <g transform="translate(1000, 60)">
+    <rect x="-80" y="0" width="180" height="44" rx="22" fill="#d97706" fill-opacity="0.3" stroke="#f59e0b" stroke-width="1.5"/>
+    <text x="10" y="28" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18" font-weight="900" fill="#fef3c7" text-anchor="middle" letter-spacing="2">PLAY FREE</text>
+  </g>
+
+  <!-- 中心 Emoji 标识 -->
+  <g transform="translate(600, 240)">
+    <circle r="90" fill="rgba(0,0,0,0.4)" stroke="rgba(245,158,11,0.4)" stroke-width="3"/>
+    <text y="32" font-size="96" text-anchor="middle" font-family="'Segoe UI Emoji', 'Apple Color Emoji', sans-serif">⛏️</text>
+  </g>
+
+  <!-- 分类胶囊 (Center) -->
+  <g transform="translate(600, 390)">
+    <rect x="-100" y="0" width="200" height="36" rx="18" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <text x="0" y="24" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="700" fill="#f59e0b" text-anchor="middle" letter-spacing="1.5">MINING GAMES</text>
+  </g>
+
+  <!-- 游戏主标题 -->
+  <text x="600" y="480" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="46" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="-0.5">
+    Physics Miner
+  </text>
+
+  <!-- 底部微标 -->
+  <text x="600" y="550" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600" fill="#a8a29e" text-anchor="middle">
+    A Game About Digging A Hole Network
+  </text>
+</svg>
