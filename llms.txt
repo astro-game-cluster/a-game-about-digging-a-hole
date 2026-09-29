@@ -1,0 +1,57 @@
+# A Game About Digging A Hole - LLMs Guide
+
+A Game About Digging A Hole is a minimalist adventure game where players dig deep beneath a newly purchased house to collect resources, upgrade equipment, and uncover a mysterious secret. Play online or get it on Steam!
+
+## Primary Pages & URLs
+- Homepage: https://agameaboutdiggingahole.net/
+- About Us: https://agameaboutdiggingahole.net/about-us
+
+## Games Collection
+- **A Game About Digging A Hole: Digging, Mystery, Adventure**: https://agameaboutdiggingahole.net/game/a-game-about-digging-a-hole
+- **Astro Digger - Cosmic Treasure Hunt Adventure**: https://agameaboutdiggingahole.net/game/astro-digger
+- **Block Digger: Dig for Treasure and Build Your Mining Empire**: https://agameaboutdiggingahole.net/game/block-digger
+- **Building Your Own Village - Tycoon: Craft, Build, and Thrive**: https://agameaboutdiggingahole.net/game/building-your-own-village-tycoon
+- **Cat and Granny**: https://agameaboutdiggingahole.net/game/cat-and-granny
+- **Coin Picker**: https://agameaboutdiggingahole.net/game/coin-picker
+- **Craft Drill**: https://agameaboutdiggingahole.net/game/craft-drill
+- **Craft Drill Clicker - The Ultimate Mining Clicker Game**: https://agameaboutdiggingahole.net/game/craft-drill-clicker
+- **Crazy Miners - Dig, Race, and Win!**: https://agameaboutdiggingahole.net/game/crazy-miners
+- **Data Diggers**: https://agameaboutdiggingahole.net/game/data-diggers
+- **Diamond Digger: Exciting Online Treasure Hunt Game**: https://agameaboutdiggingahole.net/game/diamond-digger
+- **Dig a Hole: Excavate Treasures and Upgrade Your Shovel**: https://agameaboutdiggingahole.net/game/dig-a-hole
+- **Dig Down: Hole Story - Excavate and Discover Treasures**: https://agameaboutdiggingahole.net/game/dig-down-hole-story
+- **digdig.io**: https://agameaboutdiggingahole.net/game/digdig-io
+- **Digging A Hole - Explore & Dig in this Relaxing Adventure**: https://agameaboutdiggingahole.net/game/digging-a-hole
+- **Digging a Hole Simulator - Free Online Mining Game**: https://agameaboutdiggingahole.net/game/digging-a-hole-simulator
+- **Digging Master: Unearth Ancient Treasures**: https://agameaboutdiggingahole.net/game/digging-master
+- **Play Dogeminer Online - Mine Cryptocurrency with Doge Characters**: https://agameaboutdiggingahole.net/game/dogeminer
+- **Dogeminer 2: Free Online Space Adventure Game**: https://agameaboutdiggingahole.net/game/dogeminer-2
+- **Drill Quest - Crush Blocks, Upgrade Your Drill, and Build Your City**: https://agameaboutdiggingahole.net/game/drill-quest
+- **Epic Mine**: https://agameaboutdiggingahole.net/game/epic-mine
+- **Gold Digger FRVR**: https://agameaboutdiggingahole.net/game/gold-digger-frvr
+- **Gold Digger Perfect Miner - Dig for Treasures & Earn Big!**: https://agameaboutdiggingahole.net/game/gold-digger-perfect-miner
+- **Gold Miner**: https://agameaboutdiggingahole.net/game/gold-miner
+- **Gold Miner Tom - The Ultimate Gold Mining Adventure**: https://agameaboutdiggingahole.net/game/gold-miner-tom
+- **Hole Digger - Dig Deep for Precious Minerals and Enhance Your Tools**: https://agameaboutdiggingahole.net/game/hole-digger
+- **Idle Mining Empire**: https://agameaboutdiggingahole.net/game/idle-mining-empire
+- **A Game About Digging A Hole: Digging, Mystery, Adventure** (Featured Game): https://agameaboutdiggingahole.net/
+- **Merge & Dig!**: https://agameaboutdiggingahole.net/game/merge-dig
+- **Mine Merge Mania - The Ultimate Mining Adventure**: https://agameaboutdiggingahole.net/game/mine-merge-mania
+- **Minecraft: Build & Explore Online**: https://agameaboutdiggingahole.net/game/minecraft
+- **MineEnergy2 - The Ultimate Industrial Tech Adventure**: https://agameaboutdiggingahole.net/game/mineenergy2
+- **Minefun.io - Ultimate Sandbox Game Online**: https://agameaboutdiggingahole.net/game/minefun-io
+- **Minesweeper - The Ultimate Logic Puzzle Game**: https://agameaboutdiggingahole.net/game/minesweeper
+- **Minesweeper 1000 - The Ultimate Challenge**: https://agameaboutdiggingahole.net/game/minesweeper-1000
+- **Minesweeper Mania - The Ultimate Minefield Challenge**: https://agameaboutdiggingahole.net/game/minesweeper-mania
+- **Mini Mine**: https://agameaboutdiggingahole.net/game/mini-mine
+- **Motherload**: https://agameaboutdiggingahole.net/game/motherload
+- **Mr. Mine**: https://agameaboutdiggingahole.net/game/mr-mine
+- **Mystery Digger**: https://agameaboutdiggingahole.net/game/mystery-digger
+- **Number Digger**: https://agameaboutdiggingahole.net/game/number-digger
+- **Obby: The Hole Digger - Dig Deep, Uncover Treasures!**: https://agameaboutdiggingahole.net/game/obby-the-hole-digger
+- **Oil Digging**: https://agameaboutdiggingahole.net/game/oil-digging
+- **Paper Minecraft: Explore, Build, Survive in 2D Sandbox Adventure**: https://agameaboutdiggingahole.net/game/paper-minecraft
+- **Pen Dig**: https://agameaboutdiggingahole.net/game/pen-dig
+- **Physics Miner - The Ultimate Physics-Based Adventure Game**: https://agameaboutdiggingahole.net/game/physics-miner
+- **Play Sprunki Minecraft - Mix Beats & Build Worlds Online**: https://agameaboutdiggingahole.net/game/sprunki-minecraft
+- **Voxiom.io**: https://agameaboutdiggingahole.net/game/voxiom-io

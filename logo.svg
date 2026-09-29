@@ -1,0 +1,11 @@
+<svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .word1 { font: bold 24px sans-serif; fill: #3498db; }
+    .word2 { font: bold 24px sans-serif; fill: #e74c3c; }
+    .word3 { font: bold 24px sans-serif; fill: #9b59b6;}
+  </style>
+  <text x="20" y="45" alignment-baseline="middle">
+    <tspan class="word1">Digging</tspan>
+    <tspan class="word2">Hole</tspan>
+  </text>
+</svg>
