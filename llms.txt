@@ -19,11 +19,13 @@ A Game About Digging A Hole is a minimalist adventure game where players dig dee
 - **Data Diggers**: https://agameaboutdiggingahole.net/game/data-diggers
 - **Diamond Digger: Exciting Online Treasure Hunt Game**: https://agameaboutdiggingahole.net/game/diamond-digger
 - **Dig a Hole: Excavate Treasures and Upgrade Your Shovel**: https://agameaboutdiggingahole.net/game/dig-a-hole
+- **Dig And Descend: Obby Mine — Dig Down, Dodge Traps, Go Deeper**: https://agameaboutdiggingahole.net/game/dig-and-descend-obby-mine
 - **Dig Down: Hole Story - Excavate and Discover Treasures**: https://agameaboutdiggingahole.net/game/dig-down-hole-story
 - **digdig.io**: https://agameaboutdiggingahole.net/game/digdig-io
 - **Digging A Hole - Explore & Dig in this Relaxing Adventure**: https://agameaboutdiggingahole.net/game/digging-a-hole
 - **Digging a Hole Simulator - Free Online Mining Game**: https://agameaboutdiggingahole.net/game/digging-a-hole-simulator
 - **Digging Master: Unearth Ancient Treasures**: https://agameaboutdiggingahole.net/game/digging-master
+- **Dino Digg: Dig Up Fossils and Build Your Dream Museum**: https://agameaboutdiggingahole.net/game/dino-digg
 - **Play Dogeminer Online - Mine Cryptocurrency with Doge Characters**: https://agameaboutdiggingahole.net/game/dogeminer
 - **Dogeminer 2: Free Online Space Adventure Game**: https://agameaboutdiggingahole.net/game/dogeminer-2
 - **Drill Quest - Crush Blocks, Upgrade Your Drill, and Build Your City**: https://agameaboutdiggingahole.net/game/drill-quest
@@ -38,6 +40,7 @@ A Game About Digging A Hole is a minimalist adventure game where players dig dee
 - **Merge & Dig!**: https://agameaboutdiggingahole.net/game/merge-dig
 - **Mine Merge Mania - The Ultimate Mining Adventure**: https://agameaboutdiggingahole.net/game/mine-merge-mania
 - **Minecraft: Build & Explore Online**: https://agameaboutdiggingahole.net/game/minecraft
+- **MineDash: Peaceful Voxel Sandbox Building in Your Browser**: https://agameaboutdiggingahole.net/game/minedash
 - **MineEnergy2 - The Ultimate Industrial Tech Adventure**: https://agameaboutdiggingahole.net/game/mineenergy2
 - **Minefun.io - Ultimate Sandbox Game Online**: https://agameaboutdiggingahole.net/game/minefun-io
 - **Minesweeper - The Ultimate Logic Puzzle Game**: https://agameaboutdiggingahole.net/game/minesweeper
