@@ -9,6 +9,7 @@ A Game About Digging A Hole is a minimalist adventure game where players dig dee
 ## Games Collection
 - **A Game About Digging A Hole: Digging, Mystery, Adventure**: https://agameaboutdiggingahole.net/game/a-game-about-digging-a-hole
 - **Astro Digger - Cosmic Treasure Hunt Adventure**: https://agameaboutdiggingahole.net/game/astro-digger
+- **Black Gold Base**: https://agameaboutdiggingahole.net/game/black-gold-base
 - **Block Digger: Dig for Treasure and Build Your Mining Empire**: https://agameaboutdiggingahole.net/game/block-digger
 - **Building Your Own Village - Tycoon: Craft, Build, and Thrive**: https://agameaboutdiggingahole.net/game/building-your-own-village-tycoon
 - **Cat and Granny**: https://agameaboutdiggingahole.net/game/cat-and-granny
@@ -34,6 +35,7 @@ A Game About Digging A Hole is a minimalist adventure game where players dig dee
 - **Gold Digger Perfect Miner - Dig for Treasures & Earn Big!**: https://agameaboutdiggingahole.net/game/gold-digger-perfect-miner
 - **Gold Miner**: https://agameaboutdiggingahole.net/game/gold-miner
 - **Gold Miner Tom - The Ultimate Gold Mining Adventure**: https://agameaboutdiggingahole.net/game/gold-miner-tom
+- **Gravity Gun 3D Sandbox**: https://agameaboutdiggingahole.net/game/gravity-gun-3d-sandbox
 - **Hole Digger - Dig Deep for Precious Minerals and Enhance Your Tools**: https://agameaboutdiggingahole.net/game/hole-digger
 - **Idle Mining Empire**: https://agameaboutdiggingahole.net/game/idle-mining-empire
 - **A Game About Digging A Hole: Digging, Mystery, Adventure** (Featured Game): https://agameaboutdiggingahole.net/
