@@ -58,5 +58,6 @@ A Game About Digging A Hole is a minimalist adventure game where players dig dee
 - **Paper Minecraft: Explore, Build, Survive in 2D Sandbox Adventure**: https://agameaboutdiggingahole.net/game/paper-minecraft
 - **Pen Dig**: https://agameaboutdiggingahole.net/game/pen-dig
 - **Physics Miner - The Ultimate Physics-Based Adventure Game**: https://agameaboutdiggingahole.net/game/physics-miner
+- **Restore The Phone**: https://agameaboutdiggingahole.net/game/restore-the-phone
 - **Play Sprunki Minecraft - Mix Beats & Build Worlds Online**: https://agameaboutdiggingahole.net/game/sprunki-minecraft
 - **Voxiom.io**: https://agameaboutdiggingahole.net/game/voxiom-io
