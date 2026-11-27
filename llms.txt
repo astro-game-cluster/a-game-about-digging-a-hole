@@ -40,6 +40,7 @@ A Game About Digging A Hole is a minimalist adventure game where players dig dee
 - **Idle Mining Empire**: https://agameaboutdiggingahole.net/game/idle-mining-empire
 - **A Game About Digging A Hole: Digging, Mystery, Adventure** (Featured Game): https://agameaboutdiggingahole.net/
 - **Merge & Dig!**: https://agameaboutdiggingahole.net/game/merge-dig
+- **MetalHunter - 3D Metal Detecting Treasure Hunt Simulator**: https://agameaboutdiggingahole.net/game/metalhunter
 - **Mine Merge Mania - The Ultimate Mining Adventure**: https://agameaboutdiggingahole.net/game/mine-merge-mania
 - **Minecraft: Build & Explore Online**: https://agameaboutdiggingahole.net/game/minecraft
 - **MineDash: Peaceful Voxel Sandbox Building in Your Browser**: https://agameaboutdiggingahole.net/game/minedash
